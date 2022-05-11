@@ -9,4 +9,4 @@
 # Optional parameters:
 # @raycast.icon 💻
 
-pbpaste | python -m json.tool
+pbpaste | python3 -m json.tool
